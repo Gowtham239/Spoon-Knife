@@ -1,7 +1,4 @@
-* {
-  padding: 0;
-  margin: 0;
-}
+
 
 div p{
   background-color: red;
@@ -10,7 +7,7 @@ div p{
   text-align: center;
 }
 
-p {
+.bg-color {
   background-color: green;
   color: white;
   font-size: 18px;
@@ -19,4 +16,25 @@ p {
 button {
   background-color: orange;
   font-size: 18px;
+}
+
+.odd {
+  background-color: pink;
+  color: black;
+  font-family: verdana, Dejavu, sans-serif;
+}
+
+#num2-id {
+  color: blue;
+  font-size: 36px;
+}
+
+.num3  {
+  font-size: 36px;
+}
+
+#num4-id {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
 }
