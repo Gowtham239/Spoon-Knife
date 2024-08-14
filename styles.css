@@ -21,7 +21,7 @@ button {
 .odd {
   background-color: pink;
   color: black;
-  font-family: verdana, Dejavu, sans-serif;
+  font-family: verdana, "Dejavu sans", sans-serif;
 }
 
 #num2-id {
@@ -37,4 +37,18 @@ button {
   background-color: lightgreen;
   font-size: 24px;
   font-weight: bold;
+}
+
+.b1, .b2 {
+  font-size: 28px;
+  font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+.b1 {
+  background-color: black;
+  color: white;
+}
+
+.b2 {
+  background-color: yellow;
 }
