@@ -70,3 +70,8 @@ button {
 .original.distorted {
   width: 300px;
 }
+
+.container .text {
+  background-color: yellow;
+  color: red;
+}
